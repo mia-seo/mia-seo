@@ -1,5 +1,6 @@
 
-![제목](https://user-images.githubusercontent.com/117281717/205501491-87ab4f55-30b8-41e7-ac11-017958beb19c.png)
+![제목 (1)](https://user-images.githubusercontent.com/117281717/205501654-6a63802f-6bd0-4c24-bdca-926e5a085a0f.png)
+
 <h1> 👋 Hi, I’m @mia-seo
 <h3> 🌱 I’m currently learning HTML, CSS, JavaScript
 <h3> 📫 How to reach me tjwlfif@gmail.com
