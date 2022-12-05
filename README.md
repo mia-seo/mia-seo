@@ -1,6 +1,6 @@
 
 <h1> 👋 Hi, I’m Mia <img src="https://user-images.githubusercontent.com/117281717/205501796-181a79aa-b196-488e-9705-99cb450348e4.png">
-<h3> 🌱 I’m currently learning HTML, CSS, JavaScript
+<h3> 🌱 I’m currently learning <img src="https://img.shields.io/badge/-HTML-orange"> <img src="https://img.shields.io/badge/-CSS-blue"> <img src="https://img.shields.io/badge/-JS-yellow">
 <h3> 📫 How to reach me -->> tjwlfif@gmail.com
 
 <!---
