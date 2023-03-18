@@ -18,4 +18,5 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mia-seo&show_icons=true)
     
+  <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 </div>
