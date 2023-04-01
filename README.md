@@ -6,15 +6,68 @@
   <br>
   <div>
     <h3> ⚙️ Tech ⚙️ </h3>
-    <img src="https://img.shields.io/badge/Javscript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&amp;logo=React&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&amp;logo=next.js&amp;logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&amp;logo=styled-components-DB7093&amp;logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&amp;logo=tailwindcss-DB7093&amp;logoColor=white">
-  </div>
-  <br>
+    <div align="center">
+<table>
+    <tr>
+  <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>Javascript
+    </td>
+         <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+      <br>Nextjs
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="48" height="48" alt="GitHub" />
+      <br>Github
+    </td>
+  </tr>
+    </div>
+    <div align="center">
+  <tr>
+        <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="sass" />
+      <br>Sass
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=styledcomponents" width="48" height="48" alt="styledcomponents" />
+      <br>SC
+    </td>
+  </tr>
+</table>
+</div>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mia-seo&show_icons=true)
     
