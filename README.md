@@ -1,14 +1,14 @@
 <div align="center">
   <h1> 👋 Hi, I’m Mia <img src="https://user-images.githubusercontent.com/117281717/205501796-181a79aa-b196-488e-9705-99cb450348e4.png"></h1>
   <br>
-  <p> 📫 How to reach me 👉 tjwlfif@gmail.com </p>
-  <p> 📒 My velog 👉 https://velog.io/@mia </p>
+  <h3> 📫 How to reach me 👉 tjwlfif@gmail.com </h3>
+  <h3> 📒 My velog 👉 https://velog.io/@mia </h3>
   <br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mia-seo&show_icons=true)
   <br>
   <div>
-    <h3> ⚙️ Tech ⚙️ </h3>
+    <h2> ⚙️ Tech ⚙️ </h2>
     <div align="center">
 <table>
     <tr>
