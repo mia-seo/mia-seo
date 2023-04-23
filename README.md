@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 👋 Hi, I’m Mia <img src="https://user-images.githubusercontent.com/117281717/205501796-181a79aa-b196-488e-9705-99cb450348e4.png"></h1>
+  <h1> 👋 Hi, I’m Mia <img src="https://user-images.githubusercontent.com/117281717/233825954-54620a80-aa67-471c-af02-1276356c9134.png" width="200px" height="200px" style="border-radius: 50%;"></h1>
   <br>
   <h3> 📫 How to reach me 👉 tjwlfif@gmail.com </h3>
   <h3> 📒 My velog 👉 https://velog.io/@mia </h3>
