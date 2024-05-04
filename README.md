@@ -2,7 +2,7 @@
   <h1> 👋 Hi, I’m Mia <img src="https://user-images.githubusercontent.com/117281717/233825954-54620a80-aa67-471c-af02-1276356c9134.png" width="200px" height="200px" style="border-radius: 50%;"></h1>
   <br>
   <h3> 📫 How to reach me 👉 tjwlfif@gmail.com </h3>
-  <h3> 📒 My Blog 👉 <a href="https://miastory.tistory.com/">https://miastory.tistory.com</a> </h3>
+  <h3> 📒 My Blog 👉 <a href="https://velog.io/@mia/posts">https://velog.io/@mia/posts</a> </h3>
   <br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mia-seo&show_icons=true)
